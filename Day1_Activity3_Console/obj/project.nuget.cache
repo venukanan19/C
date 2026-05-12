@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "75HrcBtb+1I=",
+  "dgSpecHash": "teL39e2r64A=",
   "success": true,
-  "projectFilePath": "Z:\\c#\\Day1_Activity3_Console\\Day1_Activity3_Console..csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\venum\\OneDrive\\Desktop\\c#\\C\\Day1_Activity3_Console\\Day1_Activity3_Console..csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venum\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\venum\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\venum\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\venum\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
