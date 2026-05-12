@@ -12,3 +12,11 @@ Z:\c#\Day1_Activity2_Console\obj\Debug\net8.0\refint\Day1_Activity2_Console.dll
 Z:\c#\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.pdb
 Z:\c#\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.genruntimeconfig.cache
 Z:\c#\Day1_Activity2_Console\obj\Debug\net8.0\ref\Day1_Activity2_Console.dll
+C:\Users\venum\OneDrive\Desktop\c#\C\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venum\OneDrive\Desktop\c#\C\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.AssemblyInfoInputs.cache
+C:\Users\venum\OneDrive\Desktop\c#\C\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.AssemblyInfo.cs
+C:\Users\venum\OneDrive\Desktop\c#\C\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.csproj.CoreCompileInputs.cache
+C:\Users\venum\OneDrive\Desktop\c#\C\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.sourcelink.json
+C:\Users\venum\OneDrive\Desktop\c#\C\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.dll
+C:\Users\venum\OneDrive\Desktop\c#\C\Day1_Activity2_Console\obj\Debug\net8.0\refint\Day1_Activity2_Console.dll
+C:\Users\venum\OneDrive\Desktop\c#\C\Day1_Activity2_Console\obj\Debug\net8.0\Day1_Activity2_Console.pdb
