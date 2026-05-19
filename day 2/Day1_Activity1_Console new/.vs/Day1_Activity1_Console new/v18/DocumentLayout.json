@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venum\\OneDrive\\Desktop\\c#\\C\\Day1_Activity1_Console new\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F6B9BD-B8BE-4414-9601-13374681CAB8}|Day1_Activity1_WPF\\Day1_Activity1_WPF.csproj|c:\\users\\venum\\onedrive\\desktop\\c#\\c\\day1_activity1_console new\\day1_activity1_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08F6B9BD-B8BE-4414-9601-13374681CAB8}|Day1_Activity1_WPF\\Day1_Activity1_WPF.csproj|solutionrelative:day1_activity1_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\venum\\OneDrive\\Desktop\\c#\\C\\Day1_Activity1_Console new\\Day1_Activity1_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Day1_Activity1_WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\venum\\OneDrive\\Desktop\\c#\\C\\Day1_Activity1_Console new\\Day1_Activity1_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Day1_Activity1_WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T13:48:13.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
