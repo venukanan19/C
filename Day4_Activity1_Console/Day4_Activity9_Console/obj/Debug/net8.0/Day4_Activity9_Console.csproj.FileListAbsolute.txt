@@ -1,0 +1,14 @@
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\bin\Debug\net8.0\Day4_Activity9_Console.exe
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\bin\Debug\net8.0\Day4_Activity9_Console.deps.json
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\bin\Debug\net8.0\Day4_Activity9_Console.runtimeconfig.json
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\bin\Debug\net8.0\Day4_Activity9_Console.dll
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\bin\Debug\net8.0\Day4_Activity9_Console.pdb
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\Day4_Activity9_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\Day4_Activity9_Console.AssemblyInfoInputs.cache
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\Day4_Activity9_Console.AssemblyInfo.cs
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\Day4_Activity9_Console.csproj.CoreCompileInputs.cache
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\Day4_Activity9_Console.dll
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\refint\Day4_Activity9_Console.dll
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\Day4_Activity9_Console.pdb
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\Day4_Activity9_Console.genruntimeconfig.cache
+C:\Users\UT011109\source\repos\Day4_Activity1_Console\Day4_Activity9_Console\obj\Debug\net8.0\ref\Day4_Activity9_Console.dll
